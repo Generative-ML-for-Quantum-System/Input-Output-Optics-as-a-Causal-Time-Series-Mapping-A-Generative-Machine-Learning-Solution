@@ -1,0 +1,1 @@
+For amplitude 10
