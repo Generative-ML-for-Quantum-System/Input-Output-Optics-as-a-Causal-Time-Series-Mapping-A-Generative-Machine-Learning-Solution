@@ -8,12 +8,12 @@ Model                        Model description      ||   Results (R^{2})
                             # of parms: 2,082
                             
 2. amp_1_CNN_auto_bkp_v1_bkp : used CNN auto encoder.
-                            architecture: (5,5,3)                 0.1002
+                            architecture: (5,5,3)                      0.1002
                             # of parms: 294
                             
-3. amp_1_CNN_auto_bkp_v2_bkp: architecture:
-                            (16,12,10,8,6,4,-4-,6,8,10,12,16)            0.1737
-                            # parms: 3,041
+3. amp_1_CNN_auto_bkp_v4_bkp: architecture:
+                            (32 − 16 − 8 − 6)                           0.1737
+                            # parms: 4, 439
                             
 4. 
 
