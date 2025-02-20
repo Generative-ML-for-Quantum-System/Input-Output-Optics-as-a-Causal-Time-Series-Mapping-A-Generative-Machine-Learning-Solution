@@ -3,18 +3,16 @@ Model                        Model description      ||   Results (R^{2})
 
 =========================================================
 
-1. amp_1_v1_bkp :   Here I have used TCN autoencoder
+1. amp_1_TCN :   Here I have used TCN autoencoder
                             architecture: (5,5,3)                     0.99657  
                             # of parms: 2,082
                             
-2. amp_1_CNN_auto_bkp_v1_bkp : used CNN auto encoder.
+2. amp_1_CNN_architecture_1 : used CNN auto encoder.
                             architecture: (5,5,3)                      0.1002
                             # of parms: 294
                             
-3. amp_1_CNN_auto_bkp_v4_bkp: architecture:
+3. amp_1_CNN_architecture_2: architecture:
                             (32 − 16 − 8 − 6)                           0.1737
                             # parms: 4, 439
                             
-4. 
 
-CNN model used in paper: CNN _V1, CNN_V4
