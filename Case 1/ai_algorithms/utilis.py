@@ -1,5 +1,5 @@
 # Copyright (c) Tulane University, USA. All rights reserved.
-# Author: Bikram K. Parida & Abhijit Sen
+
 
 
 
